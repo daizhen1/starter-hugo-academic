@@ -5,8 +5,8 @@
 
 title: Academic # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '<a href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral"><img src="//console.upyun.com/assets/landing/upyun_logo.png" width="133px"></a><br>
-		 		<a target="_blank" href="http://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏ICP备13040456号-4</p></a>
+copyright: '<a href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral"><img src="//console.upyun.com/assets/landing/upyun_logo.png" width="133px"></a>
+		 		<a target="_blank" href="http://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">苏ICP备13040456号-4</p></a>
 		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32011502010786" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//www.upyun.com/static/img/beian.d0289dc.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">苏公网安备 32011502010786号</p></a>
 ' # Footer text, e.g. '© {year} Me'
 
