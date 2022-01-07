@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '		 		<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">
+copyright: '<p>
 		 		<a href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral"><img src="//console.upyun.com/assets/landing/upyun_logo.png" height="20px"></a>
 		 		<a target="_blank" href="http://beian.miit.gov.cn/">苏ICP备13040456号-4</a>
 
